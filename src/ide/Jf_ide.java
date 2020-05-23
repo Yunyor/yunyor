@@ -265,7 +265,7 @@ public class Jf_ide extends javax.swing.JFrame implements ActionListener{
 
         jScrollPane2.setViewportView(textArea);
 
-        jButton1.setText("Generar Arbol");
+        jButton1.setText("Generar Arbol HTML");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);
