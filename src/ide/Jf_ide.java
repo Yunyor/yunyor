@@ -279,7 +279,7 @@ public class Jf_ide extends javax.swing.JFrame implements ActionListener{
             }
         });
 
-        jButton3.setText("Crear La Ruta de PDF");
+        jButton3.setText("RUTA PDF");
         jButton3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton3ActionPerformed(evt);
