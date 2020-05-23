@@ -775,7 +775,7 @@ public class Jf_ide extends javax.swing.JFrame implements ActionListener{
         
         frame.out();
   
-        frame.setSize(400, 320);
+        frame.setSize(1080, 1020);
         frame.toFront();
         frame.setVisible(true);
         writer.close();
